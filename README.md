@@ -21,7 +21,7 @@ the OpenGL And Glut.
 ## Process:
     1. First I have drawn a sky in the back.
 
-    2. Then the strirs to the memorial.
+    2. Then the stairs to the memorial.
 
     3. After this the main memorial is Drawn.
 
